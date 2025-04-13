@@ -1,0 +1,82 @@
+{
+    "name": "Henrietta Mitchell",
+    "contact_info": {
+        "email": "susovanpatra424@gmail.com",
+        "phone": "123-456-7890"
+    },
+    "summary": "Motivated and results-driven Business School graduate seeking a challenging position within a large organisation as a Business Analyst or Project Manager. Offering a strong foundation in business strategy, data analysis, and project management, with a proven ability to drive efficiency, deliver successful outcomes and collaborate within cross-functional teams.",
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration",
+            "institution": "Ginyard International Co.",
+            "year": "",
+            "details": [
+                "Majors: Analytics and Project Management"
+            ]
+        },
+        {
+            "degree": "Graduate Project Management Certification",
+            "institution": "Ginyard International Co.",
+            "year": "",
+            "details": []
+        },
+        {
+            "degree": "Impact Evaluation Methods 3-Day Short Course",
+            "institution": "Liceria & Co.",
+            "year": "",
+            "details": []
+        }
+    ],
+    "experience": [
+        {
+            "role": "Business Analyst Intern",
+            "company": "Arowwai Industries",
+            "duration": "Oct 2023 - Present",
+            "details": [
+                "Developed and implemented a streamlined process for gathering business requirements, reducing project delivery time by 15%.",
+                "Developed and implemented a standardised reporting framework, resulting in improved visibility of key performance metrics and enabling data-driven decision-making at all levels of the organisation."
+            ]
+        },
+        {
+            "role": "Project Management Assistant",
+            "company": "Hanover and Tyke",
+            "duration": "Jan 2022 - Aug 2023",
+            "details": [
+                "Assisted project managers in planning and executing various projects, ensuring adherence to project timelines and deliverables.",
+                "Monitored project budgets, tracked expenses, and prepared financial reports to ensure cost-effectiveness and adherence to financial guidelines."
+            ]
+        },
+        {
+            "role": "Barista",
+            "company": "Giggling Platypus Co.",
+            "duration": "July 2020 - Jan 2022",
+            "details": [
+                "Prepared and served a variety of beverages with precision and creativity, consistently meeting or exceeding quality standards, and receiving compliments for latte art and presentation."
+            ]
+        }
+    ],
+    "skills": {
+        "1":["Process improvement"],
+        "2":["Data-driven strategic planning"],
+        "3":["Cost-benefit analysis"],
+        "4":["Report writing and presenting"],
+        "5":["Critical thinking skills"],
+        "6":["Excellent communication skills"],
+        "7":["Strong interpersonal skills"],
+        "8":["Proactive and self-motivated"],
+        "9":["Exceptional organisational skills"]
+    },
+
+    "extracurricular_activities": [
+        {
+            "role": "President",
+            "organisation": "Business Club",
+            "details": []
+        },
+        {
+            "role": "Community Volunteer",
+            "organisation": "Paucek and Lage",
+            "details": []
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Samuel Stroms",
+    "contact_info": {
+        "email": "samuel_stroms@gmail.com",
+        "phone": "+619876543210"
+    },
+    "summary": "Highly skilled licensed high school English teacher with a year of specialized teacher training. Possesses excellent communication skills and employs innovative methods to develop lesson plans aligned with the curriculum. Eager to contribute to students' holistic growth and the advancement of high-quality secondary education.",
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "North City High School",
+            "year": "2016 - 2020",
+            "details": []
+        }
+    ],
+    "experience": [
+        {
+            "title": "Teacher Trainee",
+            "company": "West State High School",
+            "duration": "October 2018 - November 2018",
+            "responsibilities": [
+                "Developed and implemented lesson plans aligned with the curriculum.",
+                "Assisted in fostering students' holistic growth and academic excellence.",
+                "Collaborated with senior teachers to enhance teaching methodologies."
+            ]
+        }
+    ],
+    "skills": {
+        "1":["Licensed high school English teacher"],
+        "2":["Excellent communication skills"],
+        "3":["Innovative lesson planning"],
+        "4":["Curriculum alignment"],
+        "5":["Holistic student development"]
+    }
+}

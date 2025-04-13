@@ -1,0 +1,51 @@
+{
+    "name": "Kunj Gupta",
+    "contact_info": {
+        "email": "pekunj7dgupta@gmail.com",
+        "phone": "+91-6290679821"
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Technology (B.Tech) - Computer Science and Engineering (Artificial Intelligence)",
+            "institution": "Institute of Engineering Management, Salt Lake, Kolkata, India",
+            "CGPA": "9.32",
+            "year": "2022 - 2026",
+            "details": ["Backend Lead Mar 2023 - Dec 2024"]
+        }
+    ],
+    "experience": [
+        {
+            "title": "Junior Researcher",
+            "company": "IEM Research Cell",
+            "duration": "Dec 2022 - Sep 2023",
+            "responsibilities": [
+                "Syntalix Letter of Recommendation Remote"
+            ]
+        },
+        {
+            "title": "Backend Lead",
+            "company": "IEM Research Cell",
+            "duration": "Mar 2023 - Dec 2024",
+            "responsibilities": [
+                "Engineered scalable backend microservices, including real-time data processing, caching mechanisms, and third-party API integrations, using distributed systems architecture, ensuring high scalability and performance, with 99.9% uptime.",
+                "Spearheaded key backend features for an e-commerce platform using MERN stack, improving API response time by 40%.",
+                "Led a team of 2 and executed Google Ads campaign for a client, adapting strategies to boost ROI by 35% over several months.",
+                "Designed a MERN server for real-time data processing and integration with drone systems and deep learning algorithms, trained to identify 20+ animal species, automating detection of deforestation, poaching, forest fires, and wildlife monitoring.",
+                "Reduced operational costs by up to 15% and manual intervention by 80% compared to traditional surveillance methods by reducing the reliance on fixed cameras that deteriorate over time.",
+                "Filed a patent, secured victories in 3+ project exhibitions, learned microcontroller coding, and basics of drone building."
+            ],
+            "technologies": ["MERN", "Fastify", "NestJS", "Postgres", "Redis", "RabbitMQ", "Stripe", "Flask", "Cloudinary", "Firebase", "TypeScript", "Arduino", "ESP32"]
+        }
+    ],
+    "skills": {
+        "Programming Languages": ["C", "C++", "Python", "Java", "JavaScript"],
+        "Web Development": ["HTML", "CSS", "NodeJS", "ExpressJS", "Fastify", "NestJS", "Flask", "FastAPI"],
+        "Databases": ["MongoDB", "PostgreSQL", "Redis", "MySQL"],
+        "Cloud Services": ["Amazon Web Services (AWS)", "Google Cloud", "Firebase", "Cloudinary", "Render"],
+        "Tools & Frameworks": ["Git", "GitHub", "Twilio", "Mailgun"],
+        "Operating Systems": ["Microsoft Windows", "Unix/Linux - Ubuntu", "Bookworm (Debian)"],
+        "Other Skills": ["System Design", "OOP", "DBMS", "Cyber Security", "Natural Language Processing", "AIML", "Agile"],
+        "Extracurricular": ["Basketball and Swimming (10+ years)", "Won various accolades in Table Tennis (District-level)", "Competed in 5+ competitive coding contests hosted by IIT Kharagpur and TCS Codevita (Round 2)"],
+        "Certifications": ["Completed an intensive 30-day hands-on workshop on Cloud Computing and Generative AI by Google"]
+    }
+}

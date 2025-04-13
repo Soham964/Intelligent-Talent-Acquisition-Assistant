@@ -1,0 +1,36 @@
+{
+    "name": "Satyadev Ray",
+    "contact_info": {
+        "email": "avirupdasgupta3628@gmail.com"
+    },
+    "summary": "Languages: Bash, Python, C++, C, JAVA, JavaScript, HTML. Technologies: React, Network Security, Zero Trust, Cryptography, Steganography. ML Technologies: CNN, K-Means Clustering, Llama, EasyOCR, Doctr. Tools: Burpsuite, Wireshark, Metasploit, Git, Google Cloud Platform, AWS. Platforms: Windows, Linux GNU, Arduino. Soft Skills: Teamwork, Leadership, Communication, Problem Solving, Adaptability",
+    "education": [
+        {
+            "degree": "Bachelor of Technology- Computer Science and Engineering",
+            "institution": "Institute of Engineering Management, Kolkata, India",
+            "year": "2022-Present",
+            "details": ["Courses: OOPS, Algorithms, Data Structure, Computer Architecture."]
+        }
+    ],
+    "experience": [
+        {
+            "title": "Cybersecurity Intern",
+            "company": "Senselearner Technologies Pvt. Ltd ",
+            "duration": "September, 2023   November, 2023",
+            "responsibilities": [
+                "Reconnaissance: Conducted detailed OSINT operations on senselearner.com, gathering critical information and identifying 12 potential vulnerabilities, enhancing the security posture by 25% and informing subsequent security protocols.",
+                "Penetration Test: Led comprehensive penetration testing, uncovering and reporting 7+ vulnerabilities through detailed web enumeration, which enhanced security protocols and minimized potential breaches by 23%.",
+                "Executed an exhaustive web enumeration and vulnerability disclosure process, identifying and mitigating 15 critical security flaws, contributing to a 40% reduction in potential security risks.",
+                "Malware Development: Learnt about executable programs and their structure. Worked in making a Malware for hooking address table on windows machines and techniques for IDS evasion."
+            ]
+        }
+    ],
+    "skills": {
+    "Languages": ["Bash", "Python", "C++", "C", "JAVA", "JavaScript", "HTML"],
+    "Technologies": ["React", "Network Security", "Zero Trust", "Cryptography", "Steganography"],
+    "ML Technologies": ["CNN", "K-Means Clustering", "Llama", "EasyOCR", "Doctr"],
+    "Tools": ["Burpsuite", "Wireshark", "Metasploit", "Git", "Google Cloud Platform", "AWS"],
+    "Platforms": ["Windows", "Linux GNU", "Arduino"],
+    "Soft Skills": ["Teamwork", "Leadership", "Communication", "Problem Solving", "Adaptability"]
+   }
+}
